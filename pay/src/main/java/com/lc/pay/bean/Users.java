@@ -5,7 +5,7 @@
  * Created By 刘辰
  *
  */
-package com.lc.bean;
+package com.lc.pay.bean;
 
 
 public class Users {
